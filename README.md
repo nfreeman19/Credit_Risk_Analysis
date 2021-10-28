@@ -62,5 +62,4 @@ Credit risk is an inherently unbalanced classification problem. Good loans easil
 
 ## Summary:
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+Most of the results were all over the board however the Easy Esemble had the highest accuracy rate while all of the others stayed in the range of 50%-75%. All of the models provide a precision low rosk of 100%. My recommendation model would be the Easy Ensemble AdaBoost Calssifier. This had the highest accurancy score and the most balanced risks.
