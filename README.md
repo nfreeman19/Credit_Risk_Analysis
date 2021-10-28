@@ -39,7 +39,7 @@ Credit risk is an inherently unbalanced classification problem. Good loans easil
 - Recall High Risk: 72%
 - Recall Low Risk: 57%
 
-![myTest]
+![myTest](https://github.com/nfreeman19/Credit_Risk_Analysis/blob/main/Visuals/4%20-%20Combination%20(Over%20and%20Under)%20Sampling.png)
 
 ### Balanced Random Forest Classifier
 - Accuracy Score: 74.5%
