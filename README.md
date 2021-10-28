@@ -57,7 +57,7 @@ Credit risk is an inherently unbalanced classification problem. Good loans easil
 - Recall High Risk: 92%
 - Recall Low Risk: 94%
 
-![myTest]
+![myTest](https://github.com/nfreeman19/Credit_Risk_Analysis/blob/main/Visuals/6%20-%20Easy%20Ensemble%20AdaBoost%20Classifier.png)
 
 
 ## Summary:
