@@ -12,12 +12,16 @@ Credit risk is an inherently unbalanced classification problem. Good loans easil
 - Recall High Risk: 69%
 - Recall Low Risk: 60%
 
+![myTest]
+
 ### SMOTE Oversampling
 - Accuracy Score: 65.2%
 - Precision High Risk: 1%
 - Precision Low Risk: 100%
 - Recall High Risk: 62%
 - Recall Low Risk: 68%
+
+![myTest]
 
 ### Undersampling
 - Accuracy Score: 65.2%
@@ -26,12 +30,16 @@ Credit risk is an inherently unbalanced classification problem. Good loans easil
 - Recall High Risk: 69%
 - Recall Low Risk: 40%
 
+![myTest]
+
 ### Combination (Over and Under) Sampling
 - Accuracy Score: 54.4%
 - Precision High Risk: 1%
 - Precision Low Risk: 100%
 - Recall High Risk: 72%
 - Recall Low Risk: 57%
+
+![myTest]
 
 ### Balanced Random Forest Classifier
 - Accuracy Score: 74.5%
@@ -40,12 +48,16 @@ Credit risk is an inherently unbalanced classification problem. Good loans easil
 - Recall High Risk: 62%
 - Recall Low Risk: 87%
 
+![myTest]
+
 ### Easy Ensemble AdaBoost Classifier
 - Accuracy Score: 93.1%
 - Precision High Risk: 9%
 - Precision Low Risk: 100%
 - Recall High Risk: 92%
 - Recall Low Risk: 94%
+
+![myTest]
 
 
 ## Summary:
